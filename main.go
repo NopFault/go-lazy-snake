@@ -156,7 +156,7 @@ func main() {
 		var snake Snake = Snake{
 			x:     100,
 			y:     200,
-			size:  20,
+			size:  10,
 			color: rl.DarkBlue,
 			pos:   "R",
 			tail:  []Tail{},
